@@ -48,7 +48,7 @@ Algorithms need numbers, not text.
 Let's connect and talk about Machine Learning, Data Science, and AI!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujit-padhan-5024053ab)
-[![Medium](https://img.shields.io/badge/Medium-Read_Article-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sujit-padhan)
+[![Medium](https://img.shields.io/badge/Medium-Read_Article-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@padhansujit36/numerical-categorical-data-preprocessing-in-machine-learning-the-foundation-of-better-models-13a464cca42f)
 ## 👨‍💻 Author
 ---
 **Sujit Kumar Padhan**
